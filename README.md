@@ -7,7 +7,7 @@
 - K-Means выделил 5 чётких групп 
 - Интерактивный дашборд в Yandex DataLens
 
-**Стек:** Python (Pandas, Scikit-learn), SQL, Yandex DataLens
+**Стек:** Python (Pandas, Scikit-learn), Yandex DataLens
 
 **Дашборд:** https://datalens.yandex/tictpsugkveqd
 
