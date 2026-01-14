@@ -4,11 +4,11 @@
 
 **Что сделал:**
 - Проанализировал ~200 клиентов 
-- K-Means нашёл 5 чётких групп 
+- K-Means выделил 5 чётких групп 
 - Интерактивный дашборд в Yandex DataLens
 
 **Стек:** Python (Pandas, Scikit-learn), SQL, Yandex DataLens
 
-**Дашборд:** (https://datalens.yandex/tictpsugkveqd)
+**Дашборд:** https://datalens.yandex/tictpsugkveqd
 
 **Результат:** Маркетинг может запускать точечные акции под каждую группу.
